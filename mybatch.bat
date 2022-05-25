@@ -1,1 +1,1 @@
-echo "Welcome to CGI and Jenkins"
+echo "Welcome to CGI and Jenkins Poll SCM"
